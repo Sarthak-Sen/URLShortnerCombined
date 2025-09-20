@@ -4,7 +4,7 @@
 A combined repo for the frontend and backend.
 
 
-## FrontEnd : [Link](https://github.com/Sarthak-Sen/frontend-url-shortner)
+## FrontEnd Repo: [Link](https://github.com/Sarthak-Sen/frontend-url-shortner)
 
 A simple web app to shorten long URLs built with Next.js and TypeScript.
 
@@ -22,7 +22,7 @@ A simple web app to shorten long URLs built with Next.js and TypeScript.
 5. npm run dev
 
 
-## Backend : [Link](https://github.com/Sarthak-Sen/UrlShortner.API)
+## Backend Repo: [Link](https://github.com/Sarthak-Sen/UrlShortner.API)
 
 A .NET Core Web API for shortening URLs with PostgreSQL storage.
 
