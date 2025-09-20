@@ -1,10 +1,25 @@
 # URLShortnerCombined
-A combined repo for the frontend and backend
+A combined repo for the frontend and backend.
+
+##### Working Link: [Link]https://frontend-url-shortner-one.vercel.app/
 
 ## FrontEnd : [Link](https://github.com/Sarthak-Sen/frontend-url-shortner)
 
+A simple web app to shorten long URLs built with Next.js and TypeScript.
 
-Deployed at 
+#### TechStack:-
+1. Next.js 14 - React framework
+2. TypeScript - Type safety
+3. Lucide React - Icons
+4. CSS3 - Styling
+
+#### Local Setup:-
+1. Clone
+2. npm install
+3. Create .env.local
+4. Add this line: NEXT_PUBLIC_API_BASE=your-backend-api-url
+5. npm run dev
+
 
 ## Backend : [Link](https://github.com/Sarthak-Sen/UrlShortner.API)
 
