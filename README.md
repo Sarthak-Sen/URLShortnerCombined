@@ -1,4 +1,4 @@
-# URLShortnerCombined
+# URLShortenerCombined
 ## Working Link: [Link](https://frontend-url-shortner-one.vercel.app/)
 
 A combined repo for the frontend and backend of the UrlShortner.
