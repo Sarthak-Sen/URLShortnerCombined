@@ -1,7 +1,7 @@
-# URLShortenerCombined
+# URLRedirectionAnalyticsEngine
 ## Working Link: [Link](https://frontend-url-shortner-one.vercel.app/)
 
-A combined repo for the frontend and backend of the UrlShortner.
+A combined repo for the frontend and backend of the URL Redirection & Analytics Engine.
 
 
 ## FrontEnd Repo: [Link](https://github.com/Sarthak-Sen/frontend-url-shortner)
